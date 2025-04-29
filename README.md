@@ -1,6 +1,6 @@
 # Desafio: Componentes e Injeção de Dependência
 
-Projeto desenvolvido como parte do curso **Formação Desenvolvedor Moderno**  
+Projeto desenvolvido como parte do curso **Java Spring Professional**  
 **Módulo:** Back end  
 **Capítulo:** Componentes e injeção de dependência  
 Plataforma: [DevSuperior](https://devsuperior.com.br)
